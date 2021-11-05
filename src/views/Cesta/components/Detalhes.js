@@ -12,7 +12,7 @@ export default function Detalhes({nome, nomeFazenda, logoFazenda, descricao, pre
                 </View>
                 <Texto style={estilos.descricao}> {descricao} </Texto>
             <Texto style={estilos.preco}> {preco} </Texto>
-            <Botao>{botao}</Botao>
+            <Botao style={estilos.botao} onPress={() => {}} >{botao}</Botao>
     </>
 }
 
@@ -51,5 +51,8 @@ const estilos = StyleSheet.create({
         lineHeight:42,
         marginTop: 8,
     },
+    botao: {
+        marginTop: 16,
+      },
 
 })
