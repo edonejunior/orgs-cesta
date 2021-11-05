@@ -1,9 +1,9 @@
-## Cesta de verduras - Alura
+# Cesta de verduras - Alura
 
-# Projeto
+## Projeto
 Cesta de verduras para aprender fundamentos do React-native com expo.
 
-# Itens estudados
+## Itens estudados
 
 - Componentização
 - Flatlist
@@ -12,3 +12,4 @@ Cesta de verduras para aprender fundamentos do React-native com expo.
 - Mocks
 - ScrollView
 - Botão customizado
+- Google Style Fonts
